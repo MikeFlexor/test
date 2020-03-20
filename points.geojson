@@ -357,6 +357,25 @@
         {
             "type": "Feature",
             "properties": {
+                "id": "11223344"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.66456586838,
+                        55.74537626299
+                    ],
+                    [
+                        37.64036161423,
+                        55.74856470224
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "id": "78773"
             },
             "geometry": {
